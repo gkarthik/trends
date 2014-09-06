@@ -1,4 +1,4 @@
 trends
 ======
 
-Using <http://import.io/>import.io to extract trends.
+Using <http://import.io/> to extract trends.
